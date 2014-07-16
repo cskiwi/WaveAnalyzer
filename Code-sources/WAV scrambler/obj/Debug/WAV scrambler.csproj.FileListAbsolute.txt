@@ -1,0 +1,9 @@
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\bin\Debug\WAV scrambler.exe.config
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\bin\Debug\WAV scrambler.exe
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\bin\Debug\WAV scrambler.pdb
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\obj\Debug\WAV scrambler.csprojResolveAssemblyReference.cache
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\obj\Debug\WAV_scrambler.Form1.resources
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\obj\Debug\WAV_scrambler.Properties.Resources.resources
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\obj\Debug\WAV scrambler.csproj.GenerateResource.Cache
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\obj\Debug\WAV scrambler.exe
+D:\Projects\School\pbaict_1213_MMT_glenn.latomme\Topic2\Code-sources\WAV scrambler\obj\Debug\WAV scrambler.pdb
